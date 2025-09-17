@@ -67,7 +67,7 @@ Para rodar os notebooks e ver meu trabalho na prática, siga os passos:
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/](https://github.com/)Dontryl/Previsao_preco_imoveis_sp.git
+    git clone (https://github.com/Dontryl/Previsao_preco_imoveis_sp.git)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
