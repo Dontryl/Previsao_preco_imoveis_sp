@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+
+# Model/artifacts
+modelo.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives / large raw data
+*.zip
